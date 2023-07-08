@@ -1,10 +1,10 @@
-import React from 'react';
-import Router from './Router';
+import React from 'react'
+import Chemin from './Chemin'
 
 export default function App() {
-  return(
+  return (
     <div>
-      <Router />
+      <Chemin />
     </div>
   )
 }
